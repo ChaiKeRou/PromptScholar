@@ -16,7 +16,7 @@ By integrating LLMs, PromptScholar makes literature reviews **quicker, more accu
 
 PromptScholar/
 ├── backend/       # Django backend API and services
-├── frontend/      # React frontend for user interface
+├── frontend/      # PrimeVue frontend for user interface
 ├── database/      # PostgreSQL database dump and configuration
 └── README.md      # Project documentation
 
@@ -216,11 +216,3 @@ Contributions are welcome! Please fork the repository and open a pull request.
 ## 📜 License
 
 This project is licensed under the [MIT License](LICENSE).
-
-```
-
----
-
-✅ This version is tailored for your **combined repo** (frontend + backend).  
-Would you like me to also add a **“System Architecture” diagram (ASCII or Mermaid)** to visually show how frontend, backend, PostgreSQL, and Ollama connect? That would make your README stand out a lot.
-```
