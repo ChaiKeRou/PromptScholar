@@ -1,0 +1,150 @@
+[
+  {
+    "file": "article_4.pdf",
+    "classification": {
+      "classification": "Prostate Cancer Early Detection Studies",
+      "keywords": [
+        "prostate cancer",
+        "early detection",
+        "biopsy",
+        "intraepithelial neoplasia",
+        "diagnostic criteria",
+        "follow-up",
+        "risk factors"
+      ],
+      "reason": "The document contains a collection of studies and references related to prostate cancer early detection, including biopsy practices, diagnostic criteria, and follow-up protocols. These are essential for understanding the current approaches and research in detecting prostate cancer at an early stage."
+    }
+  },
+  {
+    "file": "article_5.pdf",
+    "classification": {
+      "classification": "Study on prostate cancer screening",
+      "keywords": [
+        "false-positive",
+        "screening",
+        "prostate cancer"
+      ],
+      "reason": "The document discusses the challenges of false-positive results in population-based prostate cancer screening, which is crucial for understanding and improving screening accuracy."
+    }
+  },
+  {
+    "file": "article_7.pdf",
+    "classification": {
+      "classification": "Prostate Cancer Screening Guidelines",
+      "keywords": [
+        "prostate-specific antigen",
+        "screening guidelines",
+        "digital rectal exam",
+        "PSA testing",
+        "life expectancy",
+        "over-detection",
+        "racial disparities"
+      ],
+      "reason": "The document provides comprehensive screening recommendations for prostate cancer, including considerations for different populations and thresholds for PSA testing, which is crucial for research in early detection and management strategies."
+    }
+  },
+  {
+    "file": "article_6.pdf",
+    "classification": {
+      "classification": "Prostate Cancer Research Journal Issue",
+      "keywords": [
+        "prostate cancer",
+        "early detection",
+        "diagnosis",
+        "practice guidelines"
+      ],
+      "reason": "The document presents an issue of a medical journal focusing on prostate cancer research, including articles on early detection and diagnosis. It is directly relevant to prostate cancer research as it contains peer-reviewed studies and practice guidelines."
+    }
+  },
+  {
+    "file": "article_2.pdf",
+    "classification": {
+      "classification": "Comprehensive review on prostate cancer detection and management",
+      "keywords": [
+        "prostate cancer",
+        "early detection",
+        "risk thresholds",
+        "artificial intelligence",
+        " Gleason score",
+        "metastatic castration-resistant prostate cancer (mCRPC)",
+        "screening intervals",
+        "collaborative research",
+        "European initiatives",
+        "patient information"
+      ],
+      "reason": "The document provides a comprehensive overview of various aspects of prostate cancer detection, management, and collaborative efforts. It includes insights into diagnostic methods, treatment considerations, and public health strategies, making it highly relevant for prostate cancer research."
+    }
+  },
+  {
+    "file": "article_3.pdf",
+    "classification": {
+      "classification": "PSA Testing Guidelines for Prostate Cancer Detection",
+      "keywords": [
+        "prostate cancer",
+        "PSA testing",
+        "screening guidelines",
+        "metastatic prostate cancer",
+        "evidence-based"
+      ],
+      "reason": "The document presents a detailed consensus statement on the use of PSA testing in prostate cancer detection and management. It provides Level 1 evidence supporting the role of PSA testing in reducing metastatic disease and mortality rates, emphasizes the importance of multivariable approaches to diagnosis, and addresses key considerations for different age groups and life expectancies. This makes it highly relevant to prostate cancer research and clinical practice."
+    }
+  },
+  {
+    "file": "article_11.pdf",
+    "classification": {
+      "classification": "Study on biomarkers for prostate cancer detection",
+      "keywords": [
+        "prostate-specific antigen (PSA)",
+        "biomarker",
+        "prostate cancer detection",
+        "family history",
+        "screening"
+      ],
+      "reason": "The document evaluates the performance of serum prostate-specific antigen isoform [-2]proPSA and the Prostate Health Index (PHI) in detecting prostate cancer, particularly in men with a family history. This is directly relevant to prostate cancer research as it improves screening strategies for high-risk individuals."
+    }
+  },
+  {
+    "file": "article_10.pdf",
+    "classification": {
+      "classification": "Prostate Cancer Risk Factors and Natural History",
+      "keywords": [
+        "prostate cancer",
+        "risk factors",
+        "genetic variants",
+        "HOXB13 mutations",
+        "early diagnosis"
+      ],
+      "reason": "This document compiles studies on various aspects of prostate cancer, including genetic risk factors (e.g., HOXB13 mutations), the natural history of localized prostate cancer, and the impact of age at diagnosis and comorbidities on treatment outcomes. These topics are critical for understanding prostate cancer epidemiology, genetics, and clinical management."
+    }
+  },
+  {
+    "file": "article_0.pdf",
+    "classification": {
+      "classification": "Prostate cancer prediction model using machine learning",
+      "keywords": [
+        "biochemical recurrence",
+        "support vector machines",
+        "machine learning",
+        "prognostic decision making"
+      ],
+      "reason": "The document presents a study that evaluates the use of support vector machines (SVM) for predicting biochemical recurrence in prostate cancer patients, which is directly relevant to advancing predictive models and prognostic strategies in prostate cancer research."
+    }
+  },
+  {
+    "file": "article_9.pdf",
+    "classification": {
+      "classification": "Prostate Cancer Screening Guidelines",
+      "keywords": [
+        "prostate cancer",
+        "PSA testing",
+        "screening",
+        "risk factors",
+        "digital rectal examination",
+        "biopsy referral threshold",
+        "life expectancy",
+        "repeat PSA test"
+      ],
+      "reason": "The document provides evidence-based guidelines and recommendations for prostate cancer screening, including details on PSA testing thresholds, the role of DRE, and considerations for asymptomatic men. These guidelines are essential for understanding current practices in prostate cancer detection and management."
+    }
+  }
+]

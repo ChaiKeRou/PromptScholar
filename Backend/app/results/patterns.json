@@ -1,0 +1,46 @@
+{
+  "exclusion_patterns": [
+    {
+      "pattern": "Non-English Language",
+      "keywords": [
+        "Chinese",
+        "French"
+      ],
+      "evidence": "Documents excluded because they were written in languages other than English, which makes them inaccessible for analysis."
+    },
+    {
+      "pattern": "Irrelevant Content",
+      "keywords": [
+        "general AI applications",
+        "unrelated medical field"
+      ],
+      "evidence": "Documents excluded as they do not pertain to prostate cancer detection or related topics. For example, one document focused on general AI applications in healthcare rather than specific prostate cancer detection methods."
+    }
+  ],
+  "inclusion_patterns": [
+    {
+      "pattern": "PSA Testing Focus",
+      "keywords": [
+        "prostate-specific antigen (PSA)",
+        "screening guidelines"
+      ],
+      "evidence": "Included documents often focus on PSA testing as a key method for prostate cancer detection. For example, one document evaluates the use of serum prostate-specific antigen isoform [-2]proPSA and the Prostate Health Index (PHI) in detecting prostate cancer."
+    },
+    {
+      "pattern": "Early Detection and Risk Factors",
+      "keywords": [
+        "risk factors",
+        "genetic variants"
+      ],
+      "evidence": "Included documents frequently discuss risk factors, genetic predispositions, and early detection methods. For instance, one document compiles studies on various aspects of prostate cancer, including genetic risk factors such as HOXB13 mutations."
+    },
+    {
+      "pattern": "Machine Learning in Prognosis",
+      "keywords": [
+        "machine learning",
+        "support vector machines"
+      ],
+      "evidence": "Some included documents explore the application of machine learning techniques in predicting biochemical recurrence and improving prognostic decision making. For example, one study evaluates the use of support vector machines (SVM) for this purpose."
+    }
+  ]
+}
